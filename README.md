@@ -55,8 +55,18 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 ---
+### 🐍 My GitHub Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshakhan2004/ayeshakhan2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshakhan2004/ayeshakhan2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayeshakhan2004/ayeshakhan2004/output/github-contribution-grid-snake.svg">
+</picture>
+---
+
 ## 📊 GitHub Stats:
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshakhan2004&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshakhan2004&layout=compact&theme=transparent)
+
+---
+
