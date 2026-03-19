@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 ## ✍️ My Latest Blog Posts:
 
 <!--BLOG-POST-LIST:START-->
+
 <!--BLOG-POST-LIST:END-->
 
 ## 🌐 Socials:
@@ -79,8 +80,6 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
+
 
 <!--END_SECTION:waka-->
