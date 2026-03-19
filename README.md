@@ -2,20 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshakhan2004&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like being boxed into just one domain. I am passionate about the entire tech landscape—from building scalable software and training intelligent AI models to understanding how to secure systems against modern threats. I love exploring the intersections of IT, InfoSec, and Machine Learning to build smart, secure, and resilient solutions.
+Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who firmly believes that picking just one tech domain is boring. I love dabbling in a little bit of everything from spinning up full-stack apps and training AI models, to figuring out how to secure them against the bad guys. I'm totally obsessed with the sweet spot where Software Engineering, Machine Learning, and InfoSec collide to make systems that are smart, scalable, and bulletproof.
 
 ## 👩‍💻 About Me:
 
-- 🔭 I’m currently working on: **Versatile projects spanning Full-Stack Dev, AI algorithms, and Cybersecurity.**
-- 🌱 I’m currently learning: **How to integrate Machine Learning with InfoSec, and exploring modern frameworks.**
-- 💬 Ask me about: **Python, React, training models, or SOC and VAPT tools!**
-- 📫 How to reach me: **khanayesha2004@gmail.com**
-- ⚡ Fact about me: **I can spend three hours hunting for a single missing semicolon, but I still love coding.**
+- 🔭 I’m currently working on: **Building out fun projects that mash up Full-Stack Dev, AI algorithms, and Cybersecurity.**
+- 🌱 I’m currently learning: **How to teach AI to catch hackers (aka ML in InfoSec!), plus whatever new framework caught my eye this week.**
+- 💬 Ask me about: **Python, React, training neural networks, or my favorite SOC and VAPT tools.**
+- 📫 How to reach me: **Drop a "hello" at khanayesha2004@gmail.com**
+- ⚡ Fact about me: **I will gladly spend three hours hunting down a single rogue semicolon... and somehow still love coding at the end of it.**
 
 ## ✍️ My Latest Blog Posts:
 
 <!--BLOG-POST-LIST:START-->
-
+Loading.....
 <!--BLOG-POST-LIST:END-->
 
 ## 🌐 Socials:
@@ -80,6 +80,6 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 
 <!--START_SECTION:waka-->
 
-
+Loading.....
 
 <!--END_SECTION:waka-->
