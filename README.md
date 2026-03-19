@@ -71,5 +71,6 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 
 ---
 ### ⏱️ Weekly Coding Stats:
+
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
