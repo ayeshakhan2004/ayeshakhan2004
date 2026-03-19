@@ -62,6 +62,7 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshakhan2004/ayeshakhan2004/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayeshakhan2004/ayeshakhan2004/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 ## 📊 GitHub Stats:
@@ -69,6 +70,6 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshakhan2004&layout=compact&theme=transparent)
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### ⏱️ Weekly Coding Stats:
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
