@@ -12,6 +12,11 @@ Welcome to my GitHub! I'm a 3rd-year Computer Science undergrad who doesn't like
 - 📫 How to reach me: **khanayesha2004@gmail.com**
 - ⚡ Fact about me: **I can spend three hours hunting for a single missing semicolon, but I still love coding.**
 
+## ✍️ My Latest Blog Posts:
+
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-khan-2004cs) 
