@@ -14,9 +14,8 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 
 ## ✍️ My Latest Blog Posts:
 
-<!--BLOG-POST-LIST:START-->
-Loading.....
-<!--BLOG-POST-LIST:END-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 
