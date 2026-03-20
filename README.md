@@ -15,6 +15,7 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 ## ✍️ My Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://medium.com/@khanayesha2004/test-post-2bd54e2422f1?source=rss-78ec23ac8497------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
