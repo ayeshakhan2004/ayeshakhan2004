@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshakhan2004&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who firmly believes that picking just one tech domain is boring. I love dabbling in a little bit of everything from spinning up full-stack apps and training AI models, to figuring out how to secure them against the bad guys. I'm totally obsessed with the sweet spot where Software Engineering, Machine Learning, and InfoSec collide to make systems that are smart, scalable, and bulletproof.
+Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who firmly believes that picking just one tech domain is boring. I love dabbling in a little bit of everything from spinning up full-stack apps and training AI models, to figuring out how to secure them against the bad guys. I'm totally obsessed with the sweet spot where Software Engineering, Machine Learning, and InfoSec collide to make systems that are smart, scalable, and bulletproof. 
 
-## 👩‍💻 About Me:
+## 👩‍💻 About Me: 
 
 - 🔭 I’m currently working on: **Building out fun projects that mash up Full-Stack Dev, AI algorithms, and Cybersecurity.**
 - 🌱 I’m currently learning: **How to teach AI to catch hackers (aka ML in InfoSec!), plus whatever new framework caught my eye this week.**
