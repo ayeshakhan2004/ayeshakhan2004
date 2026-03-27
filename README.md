@@ -81,9 +81,8 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-Go       3 hrs 30 mins         ████████████████████████░   95.63 %
-JSON     6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Python   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Go     3 hrs 30 mins         ████████████████████████▒   97.02 %
+JSON   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
