@@ -41,7 +41,7 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-High%20Performance-blue?logo=python&logoColor=white)
+![Asyncio](https://img.shields.io/badge/asyncio-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🛡️ InfoSec, VAPT & Enterprise Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
