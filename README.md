@@ -81,11 +81,11 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 46 mins          █████████████████░░░░░░░░   67.34 %
-Python       22 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-CSS          14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Other        11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JavaScript   1 hr 24 mins          ███████████████▓░░░░░░░░░   62.21 %
+Python       27 mins               █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+CSS          12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Java         8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
