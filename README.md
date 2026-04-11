@@ -82,9 +82,9 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     21 mins               ██████████████████░░░░░░░   72.44 %
-Python   8 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON     21 mins               ██████████████████▓░░░░░░   75.24 %
+Python   7 mins                ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 INI      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
