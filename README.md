@@ -74,6 +74,7 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 
 ## 📊 GitHub Stats:
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshakhan2004&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshakhan2004&layout=compact&theme=transparent)
 
 ---
