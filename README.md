@@ -18,9 +18,9 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 - [Test Post](https://medium.com/@khanayesha2004/test-post-2bd54e2422f1?source=rss-78ec23ac8497------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🌐 Socials:
+## 🌐 Socials: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-khan-2004cs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-khan-2004cs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanayesha2004@gmail.com)
 
 ## 💻 Tech Stack & Interests:
