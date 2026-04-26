@@ -83,10 +83,10 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       43 mins               ██████████████▓░░░░░░░░░░   58.86 %
-Python     23 mins               ████████░░░░░░░░░░░░░░░░░   32.03 %
-Markdown   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Smarty     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+YAML       43 mins               ████████████████▓░░░░░░░░   66.62 %
+Python     15 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+Markdown   4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Smarty     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
