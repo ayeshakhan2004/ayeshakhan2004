@@ -83,11 +83,7 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-TSConfig     2 mins                ██████████▓░░░░░░░░░░░░░░   43.25 %
-Markdown     1 min                 ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Other        1 min                 ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-JSON         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
