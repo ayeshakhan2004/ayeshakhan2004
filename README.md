@@ -83,8 +83,7 @@ Welcome to my digital playground! I'm a 3rd-year Computer Science undergrad who 
 <!--START_SECTION:waka-->
 
 ```txt
-Java     15 mins               ███████████████████▒░░░░░   77.83 %
-Python   4 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Python   4 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
